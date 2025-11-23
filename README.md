@@ -1,1 +1,3 @@
-# This will be our development environment for the edu app
+# This will be our education plan
+
+- Git
