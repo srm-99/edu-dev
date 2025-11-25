@@ -2,7 +2,7 @@
 
 ## Git
 
-- Clone repository
+- Clone repository: Repository cloned
 - Create branches
 - Make commits
 - Push changes
