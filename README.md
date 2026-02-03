@@ -3,7 +3,7 @@
 ## Git
 
 - Clone repository: Repository cloned
-- Create branches
+- Create branches: Create branch 
 - Make commits
 - Push changes
 - Pull changes
