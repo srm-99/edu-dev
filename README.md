@@ -3,9 +3,9 @@
 ## Git
 
 - Clone repository: Repository cloned
-- Create branches: Create branch 
+- Create branches: Branch create  
 - Make commits: Several commits create 
-- Push changes
+- Push changes: Check
 - Pull changes
 - Create & merge pull requests
 - Rebase branches
