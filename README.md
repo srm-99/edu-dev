@@ -6,7 +6,7 @@
 - Create branches: Branch create  
 - Make commits: Several commits create 
 - Push changes: Check
-- Pull changes
+- Pull changes: Check
 - Create & merge pull requests
 - Rebase branches
 
