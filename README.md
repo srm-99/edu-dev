@@ -4,7 +4,7 @@
 
 - Clone repository: Repository cloned
 - Create branches: Create branch 
-- Make commits
+- Make commits: Several commits create 
 - Push changes
 - Pull changes
 - Create & merge pull requests
